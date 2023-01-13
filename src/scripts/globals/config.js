@@ -2,7 +2,7 @@ const CONFIG = {
   KEY: process.env.API_KEY_TMDB,
   BASE_URL: 'https://api.themoviedb.org/3/',
   BASE_IMAGE_URL: 'https://image.tmdb.org/t/p/w500/',
-  DEFAULT_LANGUAGE: 'en-us',
+  DEFAULT_LANGUAGE: 'id-ID',
   CACHE_NAME: 'MovieCatalogue-V1',
   DATABASE_NAME: 'movie-catalogue-database',
   DATABASE_VERSION: 1,
